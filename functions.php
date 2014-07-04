@@ -11,7 +11,7 @@
   if ($ip == '192.168.1.38') 
   {
     // Then they can set their site root variable
-    $site_url = "http://localhost/test-tube/";
+    $site_url = "http://localhost/test-tube-quiz/";
     
   } 
   
@@ -19,7 +19,7 @@
   elseif ($ip == '192.168.0.4') 
   {
     // Then they can set their site root variable
-    $site_url = "http://localhost:8888/test-tube/";
+    $site_url = "http://localhost:8888/test-tube-quiz/";
   
   } 
   
